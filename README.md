@@ -1,7 +1,9 @@
 # Amazon-Sales-Analysis
 Project Link:- https://public.tableau.com/app/profile/priyanshi.rajput/viz/AmazonSalesDashboard_17380474019010/RevenueAnalysis
 Peerlist Link:-https://peerlist.io/priyanshirajput
+
 Linkedin Id:-www.linkedin.com/in/priyanshi-rajput
+
 Problem: -  
 KPIS: - profit, Revenue, Shipping days, Units Sales 
 
