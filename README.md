@@ -16,7 +16,7 @@
 
 ## Dashboard Preview
 
-!(https://github.com/Data897analysit/Amazon-Sales-Analysis/blob/main/HomePage.PNG)
+![Amazon Salrs Dashboard](https://github.com/Data897analysit/Amazon-Sales-Analysis/blob/main/HomePage.PNG)
 > 📌 *View the full interactive dashboard on [Tableau Publ]ic](https://public.tableau.com/app/profile/priyanshi.rajput/viz/AmazonSalesDashboard_17380474019010/RevenueAnalysis)*
 
 ---
